@@ -1,0 +1,15 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is a node server for a chitchat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "archie",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9",
+    "socket.io": "^4.8.1"
+  }
+}
